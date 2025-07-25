@@ -2,7 +2,7 @@
 
 ## Definisi Program
 
-Program **Simple Calendar** adalah aplikasi kalender berbasis GUI yang dibuat menggunakan bahasa pemrograman **Java** dengan menggunakan library **Swing**. Program ini memungkinkan pengguna untuk melihat kalender bulan per bulan dan memudahkan untuk navigasi antara bulan dan tahun. Pengguna juga dapat mengubah tahun dengan input manual.
+Program **Simple Calendar** adalah aplikasi kalender berbasis GUI yang dibuat menggunakan bahasa pemrograman **Java** dengan menggunakan library **Swing**. Program ini memungkinkan pengguna untuk melihat kalender bulan per bulan dan memudahkan untuk navigasi antara bulan dan tahun.
 
 ## Kegunaan Program
 
